@@ -1,0 +1,25 @@
+{
+  "name": "tugas1-restful_2327240088",
+  "version": "1.0.0",
+  "description": "RESTful API Bank Sampah - Bank Sampah",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Michella Valery",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^4.22.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "type": "commonjs"
+}
