@@ -1,4 +1,4 @@
-# Tugas 1 — RESTful API Bank Sampah (Setoran Sampah)
+# Tugas 2 — RESTful API Bank Sampah (Setoran Sampah)
 
 Topik 3 — Bank Sampah: Setoran Sampah.
 
